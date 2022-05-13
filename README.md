@@ -32,3 +32,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup-deb&show_icons=true&locale=en" alt="arup-deb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arup-deb&" alt="arup-deb" /></p>
+
+
+<br />
+
+ <h2 align="center">Watch my contributions get eaten by a snake 🐍</h2>   
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<br />
+
+<!-- Ending -->
+<h2 align="center">Show some ❤️ by starring my repositories! </h2 
+  
