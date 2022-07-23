@@ -35,7 +35,7 @@
 
 
 <br />
-
+## Activity Graph<img src = "https://activity-graph.herokuapp.com/graph?username=Arup-Deb&theme=react-dark">
  <h2 align="center">Watch my contributions get eaten by a snake 🐍</h2>   
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
