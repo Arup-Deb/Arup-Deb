@@ -33,8 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arup-deb&" alt="arup-deb" /></p>
 
-
 <br />
-## Activity Graph<img src = "https://activity-graph.herokuapp.com/graph?username=Arup-Deb&theme=react-dark">
+
 
   
