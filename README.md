@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Arup Deb</h1>
-<h3 align="center">Myself Arup Deb passionate in CSE .I am currently pursuing B.TECH(CSE-2024) at NIT Agartala.</h3>
+<h3 align="center">Myself Arup Deb passionate about CSE.I am recently passed out from B.TECH(CSE-2024) at NIT Agartala.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arup-deb&label=Profile%20views&color=0e75b6&style=flat" alt="arup-deb" /> </p>
 
-- 🔭 I’m currently working on and competitive Programming. [Web Development..](https://elated-lumiere-cc7ec4.netlify.app/)
+- 🔭 I’m currently working on Competitive Programming and Web Development, Problem Solving...
 
-- 🌱 I’m currently learning **C++ and DSA ,JS,Frontend and Backend development ...**
+- 🌱 I’m currently learning **C, C++, HTML, CSS, JS, Data Structure, and Algorithm. Also, have a great enthusiast in MERN Development...**
 
 - 👯 I’m looking to collaborate on **competitive world...**
 
