@@ -8,11 +8,11 @@
 
 - 👨‍💻 Software Engineer @ Amdocs
 - 💻 Java | Spring Boot | Microservices | MERN Stack | C++
-🔧 Building scalable backend systems & automating deployments (Jenkins, Unix)
-🌱 Open Source Contributor | Competitive Programmer
-🎓 NIT Agartala, CSE '24
-🚀 Passionate about clean code, system design & real-world problem solving
-📫 How to reach me **arupdeb20010@gmail.com**
+- 🔧 Building scalable backend systems & automating deployments (Jenkins, Unix)
+- 🌱 Open Source Contributor | Competitive Programmer
+- 🎓 NIT Agartala, CSE '24
+- 🚀 Passionate about clean code, system design & real-world problem solving
+- 📫 How to reach me **arupdeb20010@gmail.com**
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
