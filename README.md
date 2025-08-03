@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arup-deb&label=Profile%20views&color=0e75b6&style=flat" alt="arup-deb" /> </p>
 
-- 🔭 I’m currently working on Competitive Programming and Web Development, Problem Solving...
-
-- 🌱 I’m currently learning **C, C++, HTML, CSS, JS, Data Structure, and Algorithm. Also, have a great enthusiast in MERN Development...**
-
-- 👯 I’m looking to collaborate on **competitive world...**
-
-- 📫 How to reach me **arupdeb20010@gmail.com**
+👨‍💻 Software Engineer @ Amdocs
+💻 Java | Spring Boot | Microservices | MERN Stack | C++
+🔧 Building scalable backend systems & automating deployments (Jenkins, Unix)
+🌱 Open Source Contributor | Competitive Programmer
+🎓 NIT Agartala, CSE '24
+🚀 Passionate about clean code, system design & real-world problem solving
+📫 How to reach me **arupdeb20010@gmail.com**
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
