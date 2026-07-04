@@ -7,7 +7,7 @@
 
 ---
 
-- 👨‍💻 **Currently:** Software Engineer Associate at Amdocs  
+- 👨‍💻 **Currently:** Software Engineer at Amdocs  
 - 💻 **Tech Stack:** Java, Spring Boot, Microservices, MERN Stack, C++  
 - 🔧 **What I Do:** Build scalable backend systems, deploy on Unix, automate workflows using Jenkins & Perforce  
 - 🌱 **Also into:** Open Source | Competitive Coding  
